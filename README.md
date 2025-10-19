@@ -27,8 +27,3 @@ import {} from 'bibliography';
 
 ## License
 MIT
-
-
-
-## Contact
-Maarten Trompper <<maartentrompper@freedom.nl>>
